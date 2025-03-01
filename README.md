@@ -14,8 +14,4 @@ This is a **Flutter application** that decodes Sri Lankan National Identity Card
 
 
 Flutter Prototype Link: https://www.figma.com/design/lXK0DXLMdIVGWXfQvYOzCR/Untitled?node-id=0-1&t=hygrDzwtEqSdYGSU-1
-=======
-# flutter_application_1
 
-A new Flutter project.
->>>>>>> 51311a8 (Initial commit)
